@@ -1,0 +1,707 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 1832,
+      "country_id": 1,
+      "code": "AC",
+      "name": "Aceh",
+      "is_enabled": true,
+      "created_at": "2026-09-07T04:33:51.000000Z",
+      "updated_at": "2026-09-07T04:33:51.000000Z",
+      "country": {
+        "id": 1,
+        "cca2": "ID",
+        "cca3": "IDN",
+        "name": "Indonesia"
+      }
+    },
+    {
+      "id": 1833,
+      "country_id": 1,
+      "code": "BA",
+      "name": "Bali",
+      "is_enabled": true,
+      "created_at": "2026-09-07T04:33:51.000000Z",
+      "updated_at": "2026-09-07T04:33:51.000000Z",
+      "country": {
+        "id": 1,
+        "cca2": "ID",
+        "cca3": "IDN",
+        "name": "Indonesia"
+      }
+    },
+    {
+      "id": 1834,
+      "country_id": 1,
+      "code": "BT",
+      "name": "Banten",
+      "is_enabled": true,
+      "created_at": "2026-09-07T04:33:51.000000Z",
+      "updated_at": "2026-09-07T04:33:51.000000Z",
+      "country": {
+        "id": 1,
+        "cca2": "ID",
+        "cca3": "IDN",
+        "name": "Indonesia"
+      }
+    },
+    {
+      "id": 1835,
+      "country_id": 1,
+      "code": "BE",
+      "name": "Bengkulu",
+      "is_enabled": true,
+      "created_at": "2026-09-07T04:33:51.000000Z",
+      "updated_at": "2026-09-07T04:33:51.000000Z",
+      "country": {
+        "id": 1,
+        "cca2": "ID",
+        "cca3": "IDN",
+        "name": "Indonesia"
+      }
+    },
+    {
+      "id": 1836,
+      "country_id": 1,
+      "code": "YO",
+      "name": "DI Yogyakarta",
+      "is_enabled": true,
+      "created_at": "2026-09-07T04:33:51.000000Z",
+      "updated_at": "2026-09-07T04:33:51.000000Z",
+      "country": {
+        "id": 1,
+        "cca2": "ID",
+        "cca3": "IDN",
+        "name": "Indonesia"
+      }
+    },
+    {
+      "id": 1837,
+      "country_id": 1,
+      "code": "JK",
+      "name": "DKI Jakarta",
+      "is_enabled": true,
+      "created_at": "2026-09-07T04:33:51.000000Z",
+      "updated_at": "2026-09-07T04:33:51.000000Z",
+      "country": {
+        "id": 1,
+        "cca2": "ID",
+        "cca3": "IDN",
+        "name": "Indonesia"
+      }
+    },
+    {
+      "id": 1838,
+      "country_id": 1,
+      "code": "GO",
+      "name": "Gorontalo",
+      "is_enabled": true,
+      "created_at": "2026-09-07T04:33:51.000000Z",
+      "updated_at": "2026-09-07T04:33:51.000000Z",
+      "country": {
+        "id": 1,
+        "cca2": "ID",
+        "cca3": "IDN",
+        "name": "Indonesia"
+      }
+    },
+    {
+      "id": 1839,
+      "country_id": 1,
+      "code": "JA",
+      "name": "Jambi",
+      "is_enabled": true,
+      "created_at": "2026-09-07T04:33:51.000000Z",
+      "updated_at": "2026-09-07T04:33:51.000000Z",
+      "country": {
+        "id": 1,
+        "cca2": "ID",
+        "cca3": "IDN",
+        "name": "Indonesia"
+      }
+    },
+    {
+      "id": 1840,
+      "country_id": 1,
+      "code": "JW",
+      "name": "Jawa",
+      "is_enabled": true,
+      "created_at": "2026-09-07T04:33:51.000000Z",
+      "updated_at": "2026-09-07T04:33:51.000000Z",
+      "country": {
+        "id": 1,
+        "cca2": "ID",
+        "cca3": "IDN",
+        "name": "Indonesia"
+      }
+    },
+    {
+      "id": 1841,
+      "country_id": 1,
+      "code": "JB",
+      "name": "Jawa Barat",
+      "is_enabled": true,
+      "created_at": "2026-09-07T04:33:51.000000Z",
+      "updated_at": "2026-09-07T04:33:51.000000Z",
+      "country": {
+        "id": 1,
+        "cca2": "ID",
+        "cca3": "IDN",
+        "name": "Indonesia"
+      }
+    },
+    {
+      "id": 1842,
+      "country_id": 1,
+      "code": "JT",
+      "name": "Jawa Tengah",
+      "is_enabled": true,
+      "created_at": "2026-09-07T04:33:51.000000Z",
+      "updated_at": "2026-09-07T04:33:51.000000Z",
+      "country": {
+        "id": 1,
+        "cca2": "ID",
+        "cca3": "IDN",
+        "name": "Indonesia"
+      }
+    },
+    {
+      "id": 1843,
+      "country_id": 1,
+      "code": "JI",
+      "name": "Jawa Timur",
+      "is_enabled": true,
+      "created_at": "2026-09-07T04:33:51.000000Z",
+      "updated_at": "2026-09-07T04:33:51.000000Z",
+      "country": {
+        "id": 1,
+        "cca2": "ID",
+        "cca3": "IDN",
+        "name": "Indonesia"
+      }
+    },
+    {
+      "id": 1844,
+      "country_id": 1,
+      "code": "KA",
+      "name": "Kalimantan",
+      "is_enabled": true,
+      "created_at": "2026-09-07T04:33:51.000000Z",
+      "updated_at": "2026-09-07T04:33:51.000000Z",
+      "country": {
+        "id": 1,
+        "cca2": "ID",
+        "cca3": "IDN",
+        "name": "Indonesia"
+      }
+    },
+    {
+      "id": 1845,
+      "country_id": 1,
+      "code": "KB",
+      "name": "Kalimantan Barat",
+      "is_enabled": true,
+      "created_at": "2026-09-07T04:33:51.000000Z",
+      "updated_at": "2026-09-07T04:33:51.000000Z",
+      "country": {
+        "id": 1,
+        "cca2": "ID",
+        "cca3": "IDN",
+        "name": "Indonesia"
+      }
+    },
+    {
+      "id": 1846,
+      "country_id": 1,
+      "code": "KS",
+      "name": "Kalimantan Selatan",
+      "is_enabled": true,
+      "created_at": "2026-09-07T04:33:51.000000Z",
+      "updated_at": "2026-09-07T04:33:51.000000Z",
+      "country": {
+        "id": 1,
+        "cca2": "ID",
+        "cca3": "IDN",
+        "name": "Indonesia"
+      }
+    },
+    {
+      "id": 1847,
+      "country_id": 1,
+      "code": "KT",
+      "name": "Kalimantan Tengah",
+      "is_enabled": true,
+      "created_at": "2026-09-07T04:33:51.000000Z",
+      "updated_at": "2026-09-07T04:33:51.000000Z",
+      "country": {
+        "id": 1,
+        "cca2": "ID",
+        "cca3": "IDN",
+        "name": "Indonesia"
+      }
+    },
+    {
+      "id": 1848,
+      "country_id": 1,
+      "code": "KI",
+      "name": "Kalimantan Timur",
+      "is_enabled": true,
+      "created_at": "2026-09-07T04:33:51.000000Z",
+      "updated_at": "2026-09-07T04:33:51.000000Z",
+      "country": {
+        "id": 1,
+        "cca2": "ID",
+        "cca3": "IDN",
+        "name": "Indonesia"
+      }
+    },
+    {
+      "id": 1849,
+      "country_id": 1,
+      "code": "KU",
+      "name": "Kalimantan Utara",
+      "is_enabled": true,
+      "created_at": "2026-09-07T04:33:51.000000Z",
+      "updated_at": "2026-09-07T04:33:51.000000Z",
+      "country": {
+        "id": 1,
+        "cca2": "ID",
+        "cca3": "IDN",
+        "name": "Indonesia"
+      }
+    },
+    {
+      "id": 1850,
+      "country_id": 1,
+      "code": "BB",
+      "name": "Kepulauan Bangka Belitung",
+      "is_enabled": true,
+      "created_at": "2026-09-07T04:33:51.000000Z",
+      "updated_at": "2026-09-07T04:33:51.000000Z",
+      "country": {
+        "id": 1,
+        "cca2": "ID",
+        "cca3": "IDN",
+        "name": "Indonesia"
+      }
+    },
+    {
+      "id": 1851,
+      "country_id": 1,
+      "code": "KR",
+      "name": "Kepulauan Riau",
+      "is_enabled": true,
+      "created_at": "2026-09-07T04:33:51.000000Z",
+      "updated_at": "2026-09-07T04:33:51.000000Z",
+      "country": {
+        "id": 1,
+        "cca2": "ID",
+        "cca3": "IDN",
+        "name": "Indonesia"
+      }
+    },
+    {
+      "id": 1852,
+      "country_id": 1,
+      "code": "LA",
+      "name": "Lampung",
+      "is_enabled": true,
+      "created_at": "2026-09-07T04:33:51.000000Z",
+      "updated_at": "2026-09-07T04:33:51.000000Z",
+      "country": {
+        "id": 1,
+        "cca2": "ID",
+        "cca3": "IDN",
+        "name": "Indonesia"
+      }
+    },
+    {
+      "id": 1853,
+      "country_id": 1,
+      "code": "ML",
+      "name": "Maluku",
+      "is_enabled": true,
+      "created_at": "2026-09-07T04:33:51.000000Z",
+      "updated_at": "2026-09-07T04:33:51.000000Z",
+      "country": {
+        "id": 1,
+        "cca2": "ID",
+        "cca3": "IDN",
+        "name": "Indonesia"
+      }
+    },
+    {
+      "id": 1854,
+      "country_id": 1,
+      "code": "MA",
+      "name": "Maluku",
+      "is_enabled": true,
+      "created_at": "2026-09-07T04:33:51.000000Z",
+      "updated_at": "2026-09-07T04:33:51.000000Z",
+      "country": {
+        "id": 1,
+        "cca2": "ID",
+        "cca3": "IDN",
+        "name": "Indonesia"
+      }
+    },
+    {
+      "id": 1855,
+      "country_id": 1,
+      "code": "MU",
+      "name": "Maluku Utara",
+      "is_enabled": true,
+      "created_at": "2026-09-07T04:33:51.000000Z",
+      "updated_at": "2026-09-07T04:33:51.000000Z",
+      "country": {
+        "id": 1,
+        "cca2": "ID",
+        "cca3": "IDN",
+        "name": "Indonesia"
+      }
+    },
+    {
+      "id": 1856,
+      "country_id": 1,
+      "code": "NU",
+      "name": "Nusa Tenggara",
+      "is_enabled": true,
+      "created_at": "2026-09-07T04:33:51.000000Z",
+      "updated_at": "2026-09-07T04:33:51.000000Z",
+      "country": {
+        "id": 1,
+        "cca2": "ID",
+        "cca3": "IDN",
+        "name": "Indonesia"
+      }
+    },
+    {
+      "id": 1857,
+      "country_id": 1,
+      "code": "NB",
+      "name": "Nusa Tenggara Barat",
+      "is_enabled": true,
+      "created_at": "2026-09-07T04:33:51.000000Z",
+      "updated_at": "2026-09-07T04:33:51.000000Z",
+      "country": {
+        "id": 1,
+        "cca2": "ID",
+        "cca3": "IDN",
+        "name": "Indonesia"
+      }
+    },
+    {
+      "id": 1858,
+      "country_id": 1,
+      "code": "NT",
+      "name": "Nusa Tenggara Timur",
+      "is_enabled": true,
+      "created_at": "2026-09-07T04:33:51.000000Z",
+      "updated_at": "2026-09-07T04:33:51.000000Z",
+      "country": {
+        "id": 1,
+        "cca2": "ID",
+        "cca3": "IDN",
+        "name": "Indonesia"
+      }
+    },
+    {
+      "id": 1859,
+      "country_id": 1,
+      "code": "PA",
+      "name": "Papua",
+      "is_enabled": true,
+      "created_at": "2026-09-07T04:33:51.000000Z",
+      "updated_at": "2026-09-07T04:33:51.000000Z",
+      "country": {
+        "id": 1,
+        "cca2": "ID",
+        "cca3": "IDN",
+        "name": "Indonesia"
+      }
+    },
+    {
+      "id": 1860,
+      "country_id": 1,
+      "code": "PP",
+      "name": "Papua",
+      "is_enabled": true,
+      "created_at": "2026-09-07T04:33:51.000000Z",
+      "updated_at": "2026-09-07T04:33:51.000000Z",
+      "country": {
+        "id": 1,
+        "cca2": "ID",
+        "cca3": "IDN",
+        "name": "Indonesia"
+      }
+    },
+    {
+      "id": 1861,
+      "country_id": 1,
+      "code": "PB",
+      "name": "Papua Barat",
+      "is_enabled": true,
+      "created_at": "2026-09-07T04:33:51.000000Z",
+      "updated_at": "2026-09-07T04:33:51.000000Z",
+      "country": {
+        "id": 1,
+        "cca2": "ID",
+        "cca3": "IDN",
+        "name": "Indonesia"
+      }
+    },
+    {
+      "id": 1862,
+      "country_id": 1,
+      "code": "PD",
+      "name": "Papua Barat Daya",
+      "is_enabled": true,
+      "created_at": "2026-09-07T04:33:51.000000Z",
+      "updated_at": "2026-09-07T04:33:51.000000Z",
+      "country": {
+        "id": 1,
+        "cca2": "ID",
+        "cca3": "IDN",
+        "name": "Indonesia"
+      }
+    },
+    {
+      "id": 1863,
+      "country_id": 1,
+      "code": "PE",
+      "name": "Papua Pegunungan",
+      "is_enabled": true,
+      "created_at": "2026-09-07T04:33:51.000000Z",
+      "updated_at": "2026-09-07T04:33:51.000000Z",
+      "country": {
+        "id": 1,
+        "cca2": "ID",
+        "cca3": "IDN",
+        "name": "Indonesia"
+      }
+    },
+    {
+      "id": 1864,
+      "country_id": 1,
+      "code": "PS",
+      "name": "Papua Selatan",
+      "is_enabled": true,
+      "created_at": "2026-09-07T04:33:51.000000Z",
+      "updated_at": "2026-09-07T04:33:51.000000Z",
+      "country": {
+        "id": 1,
+        "cca2": "ID",
+        "cca3": "IDN",
+        "name": "Indonesia"
+      }
+    },
+    {
+      "id": 1865,
+      "country_id": 1,
+      "code": "PT",
+      "name": "Papua Tengah",
+      "is_enabled": true,
+      "created_at": "2026-09-07T04:33:51.000000Z",
+      "updated_at": "2026-09-07T04:33:51.000000Z",
+      "country": {
+        "id": 1,
+        "cca2": "ID",
+        "cca3": "IDN",
+        "name": "Indonesia"
+      }
+    },
+    {
+      "id": 1866,
+      "country_id": 1,
+      "code": "RI",
+      "name": "Riau",
+      "is_enabled": true,
+      "created_at": "2026-09-07T04:33:51.000000Z",
+      "updated_at": "2026-09-07T04:33:51.000000Z",
+      "country": {
+        "id": 1,
+        "cca2": "ID",
+        "cca3": "IDN",
+        "name": "Indonesia"
+      }
+    },
+    {
+      "id": 1867,
+      "country_id": 1,
+      "code": "SL",
+      "name": "Sulawesi",
+      "is_enabled": true,
+      "created_at": "2026-09-07T04:33:51.000000Z",
+      "updated_at": "2026-09-07T04:33:51.000000Z",
+      "country": {
+        "id": 1,
+        "cca2": "ID",
+        "cca3": "IDN",
+        "name": "Indonesia"
+      }
+    },
+    {
+      "id": 1868,
+      "country_id": 1,
+      "code": "SR",
+      "name": "Sulawesi Barat",
+      "is_enabled": true,
+      "created_at": "2026-09-07T04:33:51.000000Z",
+      "updated_at": "2026-09-07T04:33:51.000000Z",
+      "country": {
+        "id": 1,
+        "cca2": "ID",
+        "cca3": "IDN",
+        "name": "Indonesia"
+      }
+    },
+    {
+      "id": 1869,
+      "country_id": 1,
+      "code": "SN",
+      "name": "Sulawesi Selatan",
+      "is_enabled": true,
+      "created_at": "2026-09-07T04:33:51.000000Z",
+      "updated_at": "2026-09-07T04:33:51.000000Z",
+      "country": {
+        "id": 1,
+        "cca2": "ID",
+        "cca3": "IDN",
+        "name": "Indonesia"
+      }
+    },
+    {
+      "id": 1870,
+      "country_id": 1,
+      "code": "ST",
+      "name": "Sulawesi Tengah",
+      "is_enabled": true,
+      "created_at": "2026-09-07T04:33:51.000000Z",
+      "updated_at": "2026-09-07T04:33:51.000000Z",
+      "country": {
+        "id": 1,
+        "cca2": "ID",
+        "cca3": "IDN",
+        "name": "Indonesia"
+      }
+    },
+    {
+      "id": 1871,
+      "country_id": 1,
+      "code": "SG",
+      "name": "Sulawesi Tenggara",
+      "is_enabled": true,
+      "created_at": "2026-09-07T04:33:51.000000Z",
+      "updated_at": "2026-09-07T04:33:51.000000Z",
+      "country": {
+        "id": 1,
+        "cca2": "ID",
+        "cca3": "IDN",
+        "name": "Indonesia"
+      }
+    },
+    {
+      "id": 1872,
+      "country_id": 1,
+      "code": "SA",
+      "name": "Sulawesi Utara",
+      "is_enabled": true,
+      "created_at": "2026-09-07T04:33:51.000000Z",
+      "updated_at": "2026-09-07T04:33:51.000000Z",
+      "country": {
+        "id": 1,
+        "cca2": "ID",
+        "cca3": "IDN",
+        "name": "Indonesia"
+      }
+    },
+    {
+      "id": 1873,
+      "country_id": 1,
+      "code": "SM",
+      "name": "Sumatera",
+      "is_enabled": true,
+      "created_at": "2026-09-07T04:33:51.000000Z",
+      "updated_at": "2026-09-07T04:33:51.000000Z",
+      "country": {
+        "id": 1,
+        "cca2": "ID",
+        "cca3": "IDN",
+        "name": "Indonesia"
+      }
+    },
+    {
+      "id": 1874,
+      "country_id": 1,
+      "code": "SB",
+      "name": "Sumatera Barat",
+      "is_enabled": true,
+      "created_at": "2026-09-07T04:33:51.000000Z",
+      "updated_at": "2026-09-07T04:33:51.000000Z",
+      "country": {
+        "id": 1,
+        "cca2": "ID",
+        "cca3": "IDN",
+        "name": "Indonesia"
+      }
+    },
+    {
+      "id": 1875,
+      "country_id": 1,
+      "code": "SS",
+      "name": "Sumatera Selatan",
+      "is_enabled": true,
+      "created_at": "2026-09-07T04:33:51.000000Z",
+      "updated_at": "2026-09-07T04:33:51.000000Z",
+      "country": {
+        "id": 1,
+        "cca2": "ID",
+        "cca3": "IDN",
+        "name": "Indonesia"
+      }
+    },
+    {
+      "id": 1876,
+      "country_id": 1,
+      "code": "SU",
+      "name": "Sumatera Utara",
+      "is_enabled": true,
+      "created_at": "2026-09-07T04:33:51.000000Z",
+      "updated_at": "2026-09-07T04:33:51.000000Z",
+      "country": {
+        "id": 1,
+        "cca2": "ID",
+        "cca3": "IDN",
+        "name": "Indonesia"
+      }
+    }
+  ],
+  "first_page_url": "http://localhost:8000/api/mobile/v1/app/geo/states?per_page=1000000&country_id=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "http://localhost:8000/api/mobile/v1/app/geo/states?per_page=1000000&country_id=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "active": false
+    },
+    {
+      "url": "http://localhost:8000/api/mobile/v1/app/geo/states?per_page=1000000&country_id=1&page=1",
+      "label": "1",
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "http://localhost:8000/api/mobile/v1/app/geo/states",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 45,
+  "total": 45
+}
