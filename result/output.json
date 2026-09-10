@@ -1,0 +1,2876 @@
+[
+  {
+    "name": "SUMATERA UTARA",
+    "cityNames": [
+      "KAB. TAPANULI TENGAH",
+      "KAB. TAPANULI UTARA",
+      "KAB. TAPANULI SELATAN",
+      "KAB. NIAS",
+      "KAB. LANGKAT",
+      "KAB. KARO",
+      "KAB. SIMALUNGUN",
+      "KAB. LABUHANBATU",
+      "KAB. DAIRI",
+      "KAB. MANDAILING NATAL",
+      "KAB. NIAS SELATAN",
+      "KAB. PAKPAK BHARAT",
+      "KAB. HUMBANG HASUNDUTAN",
+      "KAB. SAMOSIR",
+      "KAB. SERDANG BEDAGAI",
+      "KAB. BATU BARA",
+      "KAB. PADANG LAWAS UTARA",
+      "KAB. PADANG LAWAS",
+      "KAB. LABUHANBATU SELATAN",
+      "KAB. LABUHANBATU UTARA",
+      "KAB. NIAS UTARA",
+      "KAB. NIAS BARAT",
+      "KOTA PEMATANGSIANTAR",
+      "KOTA SIBOLGA",
+      "KOTA TANJUNG BALAI",
+      "KOTA BINJAI",
+      "KOTA PADANG SIDEMPUAN",
+      "KOTA GUNUNGSITOLI",
+      "KAB. DELI SERDANG",
+      "KAB. ASAHAN",
+      "KAB. TOBA",
+      "KOTA MEDAN",
+      "KOTA TEBING TINGGI"
+    ],
+    "transfezID": 2,
+    "cities": [
+      {
+        "name": "KAB. TAPANULI TENGAH",
+        "transfezID": 24
+      },
+      {
+        "name": "KAB. TAPANULI UTARA",
+        "transfezID": 25
+      },
+      {
+        "name": "KAB. TAPANULI SELATAN",
+        "transfezID": 26
+      },
+      {
+        "name": "KAB. NIAS",
+        "transfezID": 27
+      },
+      {
+        "name": "KAB. LANGKAT",
+        "transfezID": 28
+      },
+      {
+        "name": "KAB. KARO",
+        "transfezID": 29
+      },
+      {
+        "name": "KAB. SIMALUNGUN",
+        "transfezID": 31
+      },
+      {
+        "name": "KAB. LABUHANBATU",
+        "transfezID": 33
+      },
+      {
+        "name": "KAB. DAIRI",
+        "transfezID": 34
+      },
+      {
+        "name": "KAB. MANDAILING NATAL",
+        "transfezID": 36
+      },
+      {
+        "name": "KAB. NIAS SELATAN",
+        "transfezID": 37
+      },
+      {
+        "name": "KAB. PAKPAK BHARAT",
+        "transfezID": 38
+      },
+      {
+        "name": "KAB. HUMBANG HASUNDUTAN",
+        "transfezID": 39
+      },
+      {
+        "name": "KAB. SAMOSIR",
+        "transfezID": 40
+      },
+      {
+        "name": "KAB. SERDANG BEDAGAI",
+        "transfezID": 41
+      },
+      {
+        "name": "KAB. BATU BARA",
+        "transfezID": 42
+      },
+      {
+        "name": "KAB. PADANG LAWAS UTARA",
+        "transfezID": 43
+      },
+      {
+        "name": "KAB. PADANG LAWAS",
+        "transfezID": 44
+      },
+      {
+        "name": "KAB. LABUHANBATU SELATAN",
+        "transfezID": 45
+      },
+      {
+        "name": "KAB. LABUHANBATU UTARA",
+        "transfezID": 46
+      },
+      {
+        "name": "KAB. NIAS UTARA",
+        "transfezID": 47
+      },
+      {
+        "name": "KAB. NIAS BARAT",
+        "transfezID": 48
+      },
+      {
+        "name": "KOTA PEMATANGSIANTAR",
+        "transfezID": 50
+      },
+      {
+        "name": "KOTA SIBOLGA",
+        "transfezID": 51
+      },
+      {
+        "name": "KOTA TANJUNG BALAI",
+        "transfezID": 52
+      },
+      {
+        "name": "KOTA BINJAI",
+        "transfezID": 53
+      },
+      {
+        "name": "KOTA PADANG SIDEMPUAN",
+        "transfezID": 55
+      },
+      {
+        "name": "KOTA GUNUNGSITOLI",
+        "transfezID": 56
+      },
+      {
+        "name": "KAB. DELI SERDANG",
+        "transfezID": 30
+      },
+      {
+        "name": "KAB. ASAHAN",
+        "transfezID": 32
+      },
+      {
+        "name": "KAB. TOBA",
+        "transfezID": 35
+      },
+      {
+        "name": "KOTA MEDAN",
+        "transfezID": 49
+      },
+      {
+        "name": "KOTA TEBING TINGGI",
+        "transfezID": 54
+      }
+    ]
+  },
+  {
+    "name": "SUMATERA BARAT",
+    "cityNames": [
+      "KAB. PESISIR SELATAN",
+      "KAB. SOLOK",
+      "KAB. PASAMAN",
+      "KAB. KEPULAUAN MENTAWAI",
+      "KAB. DHARMASRAYA",
+      "KAB. SOLOK SELATAN",
+      "KAB. PASAMAN BARAT",
+      "KOTA PADANG",
+      "KOTA SOLOK",
+      "KOTA PADANG PANJANG",
+      "KOTA BUKITTINGGI",
+      "KOTA PAYAKUMBUH",
+      "KOTA PARIAMAN",
+      "KAB. SIJUNJUNG",
+      "KAB. TANAH DATAR",
+      "KAB. PADANG PARIAMAN",
+      "KAB. AGAM",
+      "KAB. LIMA PULUH KOTA",
+      "KOTA SAWAHLUNTO"
+    ],
+    "transfezID": 3,
+    "cities": [
+      {
+        "name": "KAB. PESISIR SELATAN",
+        "transfezID": 57
+      },
+      {
+        "name": "KAB. SOLOK",
+        "transfezID": 58
+      },
+      {
+        "name": "KAB. PASAMAN",
+        "transfezID": 64
+      },
+      {
+        "name": "KAB. KEPULAUAN MENTAWAI",
+        "transfezID": 65
+      },
+      {
+        "name": "KAB. DHARMASRAYA",
+        "transfezID": 66
+      },
+      {
+        "name": "KAB. SOLOK SELATAN",
+        "transfezID": 67
+      },
+      {
+        "name": "KAB. PASAMAN BARAT",
+        "transfezID": 68
+      },
+      {
+        "name": "KOTA PADANG",
+        "transfezID": 69
+      },
+      {
+        "name": "KOTA SOLOK",
+        "transfezID": 70
+      },
+      {
+        "name": "KOTA PADANG PANJANG",
+        "transfezID": 72
+      },
+      {
+        "name": "KOTA BUKITTINGGI",
+        "transfezID": 73
+      },
+      {
+        "name": "KOTA PAYAKUMBUH",
+        "transfezID": 74
+      },
+      {
+        "name": "KOTA PARIAMAN",
+        "transfezID": 75
+      },
+      {
+        "name": "KAB. SIJUNJUNG",
+        "transfezID": 59
+      },
+      {
+        "name": "KAB. TANAH DATAR",
+        "transfezID": 60
+      },
+      {
+        "name": "KAB. PADANG PARIAMAN",
+        "transfezID": 61
+      },
+      {
+        "name": "KAB. AGAM",
+        "transfezID": 62
+      },
+      {
+        "name": "KAB. LIMA PULUH KOTA",
+        "transfezID": 63
+      },
+      {
+        "name": "KOTA SAWAHLUNTO",
+        "transfezID": 71
+      }
+    ]
+  },
+  {
+    "name": "RIAU",
+    "cityNames": [
+      "KAB. KAMPAR",
+      "KAB. BENGKALIS",
+      "KAB.  PELALAWAN",
+      "KAB.  ROKAN HULU",
+      "KAB.  ROKAN HILIR",
+      "KAB. SIAK",
+      "KAB. KUANTAN SINGINGI",
+      "KOTA PEKANBARU",
+      "KOTA DUMAI",
+      "KAB. INDRAGIRI HULU",
+      "KAB. INDRAGIRI HILIR",
+      "KAB. KEPULAUAN MERANTI"
+    ],
+    "transfezID": 4,
+    "cities": [
+      {
+        "name": "KAB. KAMPAR",
+        "transfezID": 76
+      },
+      {
+        "name": "KAB. BENGKALIS",
+        "transfezID": 78
+      },
+      {
+        "name": "KAB.  PELALAWAN",
+        "transfezID": 80
+      },
+      {
+        "name": "KAB.  ROKAN HULU",
+        "transfezID": 81
+      },
+      {
+        "name": "KAB.  ROKAN HILIR",
+        "transfezID": 82
+      },
+      {
+        "name": "KAB. SIAK",
+        "transfezID": 83
+      },
+      {
+        "name": "KAB. KUANTAN SINGINGI",
+        "transfezID": 84
+      },
+      {
+        "name": "KOTA PEKANBARU",
+        "transfezID": 86
+      },
+      {
+        "name": "KOTA DUMAI",
+        "transfezID": 87
+      },
+      {
+        "name": "KAB. INDRAGIRI HULU",
+        "transfezID": 77
+      },
+      {
+        "name": "KAB. INDRAGIRI HILIR",
+        "transfezID": 79
+      },
+      {
+        "name": "KAB. KEPULAUAN MERANTI",
+        "transfezID": 85
+      }
+    ]
+  },
+  {
+    "name": "JAMBI",
+    "cityNames": [
+      "KAB.  KERINCI",
+      "KAB. SAROLANGUN",
+      "KAB. BATANGHARI",
+      "KAB.  MUARO JAMBI",
+      "KAB. TANJUNG JABUNG BARAT",
+      "KAB. TANJUNG JABUNG TIMUR",
+      "KAB. BUNGO",
+      "KOTA SUNGAI PENUH",
+      "KAB.  MERANGIN",
+      "KAB. TEBO",
+      "KOTA JAMBI"
+    ],
+    "transfezID": 5,
+    "cities": [
+      {
+        "name": "KAB.  KERINCI",
+        "transfezID": 88
+      },
+      {
+        "name": "KAB. SAROLANGUN",
+        "transfezID": 90
+      },
+      {
+        "name": "KAB. BATANGHARI",
+        "transfezID": 91
+      },
+      {
+        "name": "KAB.  MUARO JAMBI",
+        "transfezID": 92
+      },
+      {
+        "name": "KAB. TANJUNG JABUNG BARAT",
+        "transfezID": 93
+      },
+      {
+        "name": "KAB. TANJUNG JABUNG TIMUR",
+        "transfezID": 94
+      },
+      {
+        "name": "KAB. BUNGO",
+        "transfezID": 95
+      },
+      {
+        "name": "KOTA SUNGAI PENUH",
+        "transfezID": 98
+      },
+      {
+        "name": "KAB.  MERANGIN",
+        "transfezID": 89
+      },
+      {
+        "name": "KAB. TEBO",
+        "transfezID": 96
+      },
+      {
+        "name": "KOTA JAMBI",
+        "transfezID": 97
+      }
+    ]
+  },
+  {
+    "name": "LAMPUNG",
+    "cityNames": [
+      "KAB. LAMPUNG SELATAN",
+      "KAB. LAMPUNG TENGAH",
+      "KAB. LAMPUNG UTARA",
+      "KAB. TULANG BAWANG",
+      "KAB. TANGGAMUS",
+      "KAB. LAMPUNG TIMUR",
+      "KAB. WAY KANAN",
+      "KAB. PRINGSEWU",
+      "KAB. MESUJI",
+      "KAB. PESISIR BARAT",
+      "KAB. LAMPUNG BARAT",
+      "KAB. PESAWARAN",
+      "KAB. TULANG BAWANG BARAT",
+      "KOTA BANDAR LAMPUNG",
+      "KOTA METRO"
+    ],
+    "transfezID": 8,
+    "cities": [
+      {
+        "name": "KAB. LAMPUNG SELATAN",
+        "transfezID": 126
+      },
+      {
+        "name": "KAB. LAMPUNG TENGAH",
+        "transfezID": 127
+      },
+      {
+        "name": "KAB. LAMPUNG UTARA",
+        "transfezID": 128
+      },
+      {
+        "name": "KAB. TULANG BAWANG",
+        "transfezID": 130
+      },
+      {
+        "name": "KAB. TANGGAMUS",
+        "transfezID": 131
+      },
+      {
+        "name": "KAB. LAMPUNG TIMUR",
+        "transfezID": 132
+      },
+      {
+        "name": "KAB. WAY KANAN",
+        "transfezID": 133
+      },
+      {
+        "name": "KAB. PRINGSEWU",
+        "transfezID": 135
+      },
+      {
+        "name": "KAB. MESUJI",
+        "transfezID": 136
+      },
+      {
+        "name": "KAB. PESISIR BARAT",
+        "transfezID": 138
+      },
+      {
+        "name": "KAB. LAMPUNG BARAT",
+        "transfezID": 129
+      },
+      {
+        "name": "KAB. PESAWARAN",
+        "transfezID": 134
+      },
+      {
+        "name": "KAB. TULANG BAWANG BARAT",
+        "transfezID": 137
+      },
+      {
+        "name": "KOTA BANDAR LAMPUNG",
+        "transfezID": 139
+      },
+      {
+        "name": "KOTA METRO",
+        "transfezID": 140
+      }
+    ]
+  },
+  {
+    "name": "KEPULAUAN BANGKA BELITUNG",
+    "cityNames": [
+      "KAB. BANGKA",
+      "KAB. BELITUNG",
+      "KAB. BANGKA SELATAN",
+      "KAB. BANGKA TENGAH",
+      "KAB. BANGKA BARAT",
+      "KAB. BELITUNG TIMUR",
+      "KOTA PANGKAL PINANG"
+    ],
+    "transfezID": 9,
+    "cities": [
+      {
+        "name": "KAB. BANGKA",
+        "transfezID": 141
+      },
+      {
+        "name": "KAB. BELITUNG",
+        "transfezID": 142
+      },
+      {
+        "name": "KAB. BANGKA SELATAN",
+        "transfezID": 143
+      },
+      {
+        "name": "KAB. BANGKA TENGAH",
+        "transfezID": 144
+      },
+      {
+        "name": "KAB. BANGKA BARAT",
+        "transfezID": 145
+      },
+      {
+        "name": "KAB. BELITUNG TIMUR",
+        "transfezID": 146
+      },
+      {
+        "name": "KOTA PANGKAL PINANG",
+        "transfezID": 147
+      }
+    ]
+  },
+  {
+    "name": "KEPULAUAN RIAU",
+    "cityNames": [
+      "KAB. BINTAN",
+      "KAB. KARIMUN",
+      "KAB. NATUNA",
+      "KAB. LINGGA",
+      "KAB. KEPULAUAN ANAMBAS",
+      "KOTA BATAM",
+      "KOTA TANJUNG PINANG"
+    ],
+    "transfezID": 10,
+    "cities": [
+      {
+        "name": "KAB. BINTAN",
+        "transfezID": 148
+      },
+      {
+        "name": "KAB. KARIMUN",
+        "transfezID": 149
+      },
+      {
+        "name": "KAB. NATUNA",
+        "transfezID": 150
+      },
+      {
+        "name": "KAB. LINGGA",
+        "transfezID": 151
+      },
+      {
+        "name": "KAB. KEPULAUAN ANAMBAS",
+        "transfezID": 152
+      },
+      {
+        "name": "KOTA BATAM",
+        "transfezID": 153
+      },
+      {
+        "name": "KOTA TANJUNG PINANG",
+        "transfezID": 154
+      }
+    ]
+  },
+  {
+    "name": "DKI JAKARTA",
+    "cityNames": [
+      "KOTA ADM. JAKARTA PUSAT",
+      "KOTA ADM. JAKARTA UTARA",
+      "KOTA ADM. JAKARTA BARAT",
+      "KOTA ADM. JAKARTA SELATAN",
+      "KAB. ADM. KEP. SERIBU",
+      "KOTA ADM. JAKARTA TIMUR"
+    ],
+    "transfezID": 11,
+    "cities": [
+      {
+        "name": "KOTA ADM. JAKARTA PUSAT",
+        "transfezID": 156
+      },
+      {
+        "name": "KOTA ADM. JAKARTA UTARA",
+        "transfezID": 157
+      },
+      {
+        "name": "KOTA ADM. JAKARTA BARAT",
+        "transfezID": 158
+      },
+      {
+        "name": "KOTA ADM. JAKARTA SELATAN",
+        "transfezID": 159
+      },
+      {
+        "name": "KAB. ADM. KEP. SERIBU",
+        "transfezID": 155
+      },
+      {
+        "name": "KOTA ADM. JAKARTA TIMUR",
+        "transfezID": 160
+      }
+    ]
+  },
+  {
+    "name": "JAWA TENGAH",
+    "cityNames": [
+      "KAB. CILACAP",
+      "KAB. BANYUMAS",
+      "KAB. BANJARNEGARA",
+      "KAB. KEBUMEN",
+      "KAB. PURWOREJO",
+      "KAB. MAGELANG",
+      "KAB. BOYOLALI",
+      "KAB. KLATEN",
+      "KAB. SUKOHARJO",
+      "KAB. WONOGIRI",
+      "KAB. SRAGEN",
+      "KAB. BLORA",
+      "KAB. REMBANG",
+      "KAB. PATI",
+      "KAB. KUDUS",
+      "KAB. JEPARA",
+      "KAB. SEMARANG",
+      "KAB. TEMANGGUNG",
+      "KAB. KENDAL",
+      "KAB. BATANG",
+      "KAB. PEKALONGAN",
+      "KAB. TEGAL",
+      "KAB. BREBES",
+      "KOTA SURAKARTA",
+      "KOTA SALATIGA",
+      "KOTA SEMARANG",
+      "KOTA PEKALONGAN",
+      "KOTA TEGAL",
+      "KAB. WONOSOBO",
+      "KOTA MAGELANG",
+      "KAB. KARANGANYAR",
+      "KAB. PURBALINGGA",
+      "KAB. GROBOGAN",
+      "KAB. DEMAK",
+      "KAB. PEMALANG"
+    ],
+    "transfezID": 13,
+    "cities": [
+      {
+        "name": "KAB. CILACAP",
+        "transfezID": 188
+      },
+      {
+        "name": "KAB. BANYUMAS",
+        "transfezID": 189
+      },
+      {
+        "name": "KAB. BANJARNEGARA",
+        "transfezID": 191
+      },
+      {
+        "name": "KAB. KEBUMEN",
+        "transfezID": 192
+      },
+      {
+        "name": "KAB. PURWOREJO",
+        "transfezID": 193
+      },
+      {
+        "name": "KAB. MAGELANG",
+        "transfezID": 195
+      },
+      {
+        "name": "KAB. BOYOLALI",
+        "transfezID": 196
+      },
+      {
+        "name": "KAB. KLATEN",
+        "transfezID": 197
+      },
+      {
+        "name": "KAB. SUKOHARJO",
+        "transfezID": 198
+      },
+      {
+        "name": "KAB. WONOGIRI",
+        "transfezID": 199
+      },
+      {
+        "name": "KAB. SRAGEN",
+        "transfezID": 201
+      },
+      {
+        "name": "KAB. BLORA",
+        "transfezID": 203
+      },
+      {
+        "name": "KAB. REMBANG",
+        "transfezID": 204
+      },
+      {
+        "name": "KAB. PATI",
+        "transfezID": 205
+      },
+      {
+        "name": "KAB. KUDUS",
+        "transfezID": 206
+      },
+      {
+        "name": "KAB. JEPARA",
+        "transfezID": 207
+      },
+      {
+        "name": "KAB. SEMARANG",
+        "transfezID": 209
+      },
+      {
+        "name": "KAB. TEMANGGUNG",
+        "transfezID": 210
+      },
+      {
+        "name": "KAB. KENDAL",
+        "transfezID": 211
+      },
+      {
+        "name": "KAB. BATANG",
+        "transfezID": 212
+      },
+      {
+        "name": "KAB. PEKALONGAN",
+        "transfezID": 213
+      },
+      {
+        "name": "KAB. TEGAL",
+        "transfezID": 215
+      },
+      {
+        "name": "KAB. BREBES",
+        "transfezID": 216
+      },
+      {
+        "name": "KOTA SURAKARTA",
+        "transfezID": 218
+      },
+      {
+        "name": "KOTA SALATIGA",
+        "transfezID": 219
+      },
+      {
+        "name": "KOTA SEMARANG",
+        "transfezID": 220
+      },
+      {
+        "name": "KOTA PEKALONGAN",
+        "transfezID": 221
+      },
+      {
+        "name": "KOTA TEGAL",
+        "transfezID": 222
+      },
+      {
+        "name": "KAB. WONOSOBO",
+        "transfezID": 194
+      },
+      {
+        "name": "KOTA MAGELANG",
+        "transfezID": 217
+      },
+      {
+        "name": "KAB. KARANGANYAR",
+        "transfezID": 200
+      },
+      {
+        "name": "KAB. PURBALINGGA",
+        "transfezID": 190
+      },
+      {
+        "name": "KAB. GROBOGAN",
+        "transfezID": 202
+      },
+      {
+        "name": "KAB. DEMAK",
+        "transfezID": 208
+      },
+      {
+        "name": "KAB. PEMALANG",
+        "transfezID": 214
+      }
+    ]
+  },
+  {
+    "name": "DAERAH ISTIMEWA YOGYAKARTA",
+    "cityNames": [
+      "KAB. KULON PROGO",
+      "KAB. GUNUNGKIDUL",
+      "KOTA YOGYAKARTA",
+      "KAB. BANTUL",
+      "KAB. SLEMAN"
+    ],
+    "transfezID": 14,
+    "cities": [
+      {
+        "name": "KAB. KULON PROGO",
+        "transfezID": 223
+      },
+      {
+        "name": "KAB. GUNUNGKIDUL",
+        "transfezID": 225
+      },
+      {
+        "name": "KOTA YOGYAKARTA",
+        "transfezID": 227
+      },
+      {
+        "name": "KAB. BANTUL",
+        "transfezID": 224
+      },
+      {
+        "name": "KAB. SLEMAN",
+        "transfezID": 226
+      }
+    ]
+  },
+  {
+    "name": "JAWA TIMUR",
+    "cityNames": [
+      "KAB. KEDIRI",
+      "KAB. MALANG",
+      "KAB. BANYUWANGI",
+      "KAB. SITUBONDO",
+      "KAB. PROBOLINGGO",
+      "KAB. PASURUAN",
+      "KAB. SIDOARJO",
+      "KAB. MOJOKERTO",
+      "KAB. JOMBANG",
+      "KAB. NGANJUK",
+      "KAB. MADIUN",
+      "KAB. MAGETAN",
+      "KAB. NGAWI",
+      "KAB. TUBAN",
+      "KAB. LAMONGAN",
+      "KAB. GRESIK",
+      "KAB. BANGKALAN",
+      "KAB. SUMENEP",
+      "KOTA KEDIRI",
+      "KOTA BLITAR",
+      "KOTA MALANG",
+      "KOTA PROBOLINGGO",
+      "KOTA PASURUAN",
+      "KOTA MOJOKERTO",
+      "KOTA SURABAYA",
+      "KOTA BATU",
+      "KAB. BLITAR",
+      "KAB. PACITAN",
+      "KAB. BOJONEGORO",
+      "KAB. TULUNGAGUNG",
+      "KAB. PAMEKASAN",
+      "KAB. LUMAJANG",
+      "KAB. BONDOWOSO",
+      "KAB. PONOROGO",
+      "KAB. SAMPANG",
+      "KOTA MADIUN",
+      "KAB. TRENGGALEK",
+      "KAB. JEMBER"
+    ],
+    "transfezID": 15,
+    "cities": [
+      {
+        "name": "KAB. KEDIRI",
+        "transfezID": 233
+      },
+      {
+        "name": "KAB. MALANG",
+        "transfezID": 234
+      },
+      {
+        "name": "KAB. BANYUWANGI",
+        "transfezID": 237
+      },
+      {
+        "name": "KAB. SITUBONDO",
+        "transfezID": 239
+      },
+      {
+        "name": "KAB. PROBOLINGGO",
+        "transfezID": 240
+      },
+      {
+        "name": "KAB. PASURUAN",
+        "transfezID": 241
+      },
+      {
+        "name": "KAB. SIDOARJO",
+        "transfezID": 242
+      },
+      {
+        "name": "KAB. MOJOKERTO",
+        "transfezID": 243
+      },
+      {
+        "name": "KAB. JOMBANG",
+        "transfezID": 244
+      },
+      {
+        "name": "KAB. NGANJUK",
+        "transfezID": 245
+      },
+      {
+        "name": "KAB. MADIUN",
+        "transfezID": 246
+      },
+      {
+        "name": "KAB. MAGETAN",
+        "transfezID": 247
+      },
+      {
+        "name": "KAB. NGAWI",
+        "transfezID": 248
+      },
+      {
+        "name": "KAB. TUBAN",
+        "transfezID": 250
+      },
+      {
+        "name": "KAB. LAMONGAN",
+        "transfezID": 251
+      },
+      {
+        "name": "KAB. GRESIK",
+        "transfezID": 252
+      },
+      {
+        "name": "KAB. BANGKALAN",
+        "transfezID": 253
+      },
+      {
+        "name": "KAB. SUMENEP",
+        "transfezID": 256
+      },
+      {
+        "name": "KOTA KEDIRI",
+        "transfezID": 257
+      },
+      {
+        "name": "KOTA BLITAR",
+        "transfezID": 258
+      },
+      {
+        "name": "KOTA MALANG",
+        "transfezID": 259
+      },
+      {
+        "name": "KOTA PROBOLINGGO",
+        "transfezID": 260
+      },
+      {
+        "name": "KOTA PASURUAN",
+        "transfezID": 261
+      },
+      {
+        "name": "KOTA MOJOKERTO",
+        "transfezID": 262
+      },
+      {
+        "name": "KOTA SURABAYA",
+        "transfezID": 264
+      },
+      {
+        "name": "KOTA BATU",
+        "transfezID": 265
+      },
+      {
+        "name": "KAB. BLITAR",
+        "transfezID": 232
+      },
+      {
+        "name": "KAB. PACITAN",
+        "transfezID": 228
+      },
+      {
+        "name": "KAB. BOJONEGORO",
+        "transfezID": 249
+      },
+      {
+        "name": "KAB. TULUNGAGUNG",
+        "transfezID": 231
+      },
+      {
+        "name": "KAB. PAMEKASAN",
+        "transfezID": 255
+      },
+      {
+        "name": "KAB. LUMAJANG",
+        "transfezID": 235
+      },
+      {
+        "name": "KAB. BONDOWOSO",
+        "transfezID": 238
+      },
+      {
+        "name": "KAB. PONOROGO",
+        "transfezID": 229
+      },
+      {
+        "name": "KAB. SAMPANG",
+        "transfezID": 254
+      },
+      {
+        "name": "KOTA MADIUN",
+        "transfezID": 263
+      },
+      {
+        "name": "KAB. TRENGGALEK",
+        "transfezID": 230
+      },
+      {
+        "name": "KAB. JEMBER",
+        "transfezID": 236
+      }
+    ]
+  },
+  {
+    "name": "BANTEN",
+    "cityNames": [
+      "KAB. PANDEGLANG",
+      "KAB. LEBAK",
+      "KAB. SERANG",
+      "KOTA TANGERANG",
+      "KOTA CILEGON",
+      "KOTA TANGERANG SELATAN",
+      "KOTA SERANG",
+      "KAB. TANGERANG"
+    ],
+    "transfezID": 16,
+    "cities": [
+      {
+        "name": "KAB. PANDEGLANG",
+        "transfezID": 266
+      },
+      {
+        "name": "KAB. LEBAK",
+        "transfezID": 267
+      },
+      {
+        "name": "KAB. SERANG",
+        "transfezID": 269
+      },
+      {
+        "name": "KOTA TANGERANG",
+        "transfezID": 270
+      },
+      {
+        "name": "KOTA CILEGON",
+        "transfezID": 271
+      },
+      {
+        "name": "KOTA TANGERANG SELATAN",
+        "transfezID": 273
+      },
+      {
+        "name": "KOTA SERANG",
+        "transfezID": 272
+      },
+      {
+        "name": "KAB. TANGERANG",
+        "transfezID": 268
+      }
+    ]
+  },
+  {
+    "name": "BALI",
+    "cityNames": [
+      "KAB. JEMBRANA",
+      "KAB. BADUNG",
+      "KAB. GIANYAR",
+      "KAB. KLUNGKUNG",
+      "KAB. BANGLI",
+      "KAB. KARANGASEM",
+      "KOTA DENPASAR",
+      "KAB. TABANAN",
+      "KAB. BULELENG"
+    ],
+    "transfezID": 17,
+    "cities": [
+      {
+        "name": "KAB. JEMBRANA",
+        "transfezID": 274
+      },
+      {
+        "name": "KAB. BADUNG",
+        "transfezID": 276
+      },
+      {
+        "name": "KAB. GIANYAR",
+        "transfezID": 277
+      },
+      {
+        "name": "KAB. KLUNGKUNG",
+        "transfezID": 278
+      },
+      {
+        "name": "KAB. BANGLI",
+        "transfezID": 279
+      },
+      {
+        "name": "KAB. KARANGASEM",
+        "transfezID": 280
+      },
+      {
+        "name": "KOTA DENPASAR",
+        "transfezID": 282
+      },
+      {
+        "name": "KAB. TABANAN",
+        "transfezID": 275
+      },
+      {
+        "name": "KAB. BULELENG",
+        "transfezID": 281
+      }
+    ]
+  },
+  {
+    "name": "NUSA TENGGARA BARAT",
+    "cityNames": [
+      "KAB. LOMBOK TENGAH",
+      "KAB. SUMBAWA",
+      "KAB. SUMBAWA BARAT",
+      "KOTA MATARAM",
+      "KOTA BIMA",
+      "KAB. LOMBOK BARAT",
+      "KAB. LOMBOK TIMUR",
+      "KAB. DOMPU",
+      "KAB. BIMA",
+      "KAB. LOMBOK UTARA"
+    ],
+    "transfezID": 18,
+    "cities": [
+      {
+        "name": "KAB. LOMBOK TENGAH",
+        "transfezID": 284
+      },
+      {
+        "name": "KAB. SUMBAWA",
+        "transfezID": 286
+      },
+      {
+        "name": "KAB. SUMBAWA BARAT",
+        "transfezID": 289
+      },
+      {
+        "name": "KOTA MATARAM",
+        "transfezID": 291
+      },
+      {
+        "name": "KOTA BIMA",
+        "transfezID": 292
+      },
+      {
+        "name": "KAB. LOMBOK BARAT",
+        "transfezID": 283
+      },
+      {
+        "name": "KAB. LOMBOK TIMUR",
+        "transfezID": 285
+      },
+      {
+        "name": "KAB. DOMPU",
+        "transfezID": 287
+      },
+      {
+        "name": "KAB. BIMA",
+        "transfezID": 288
+      },
+      {
+        "name": "KAB. LOMBOK UTARA",
+        "transfezID": 290
+      }
+    ]
+  },
+  {
+    "name": "NUSA TENGGARA TIMUR",
+    "cityNames": [
+      "KAB TIMOR TENGAH SELATAN",
+      "KAB. TIMOR TENGAH UTARA",
+      "KAB. BELU",
+      "KAB. FLORES TIMUR",
+      "KAB. SIKKA",
+      "KAB. ENDE",
+      "KAB. MANGGARAI",
+      "KAB. SUMBA TIMUR",
+      "KAB. SUMBA BARAT",
+      "KAB. MANGGARAI BARAT",
+      "KAB. NAGEKEO",
+      "KAB. SUMBA TENGAH",
+      "KAB. SUMBA BARAT DAYA",
+      "KAB. MANGGARAI TIMUR",
+      "KOTA KUPANG",
+      "KAB. NGADA",
+      "KAB. SABU RAIJUA",
+      "KAB. KUPANG",
+      "KAB. MALAKA",
+      "KAB. ROTE NDAO",
+      "KAB. LEMBATA",
+      "KAB. ALOR"
+    ],
+    "transfezID": 19,
+    "cities": [
+      {
+        "name": "KAB TIMOR TENGAH SELATAN",
+        "transfezID": 294
+      },
+      {
+        "name": "KAB. TIMOR TENGAH UTARA",
+        "transfezID": 295
+      },
+      {
+        "name": "KAB. BELU",
+        "transfezID": 296
+      },
+      {
+        "name": "KAB. FLORES TIMUR",
+        "transfezID": 298
+      },
+      {
+        "name": "KAB. SIKKA",
+        "transfezID": 299
+      },
+      {
+        "name": "KAB. ENDE",
+        "transfezID": 300
+      },
+      {
+        "name": "KAB. MANGGARAI",
+        "transfezID": 302
+      },
+      {
+        "name": "KAB. SUMBA TIMUR",
+        "transfezID": 303
+      },
+      {
+        "name": "KAB. SUMBA BARAT",
+        "transfezID": 304
+      },
+      {
+        "name": "KAB. MANGGARAI BARAT",
+        "transfezID": 307
+      },
+      {
+        "name": "KAB. NAGEKEO",
+        "transfezID": 308
+      },
+      {
+        "name": "KAB. SUMBA TENGAH",
+        "transfezID": 309
+      },
+      {
+        "name": "KAB. SUMBA BARAT DAYA",
+        "transfezID": 310
+      },
+      {
+        "name": "KAB. MANGGARAI TIMUR",
+        "transfezID": 311
+      },
+      {
+        "name": "KOTA KUPANG",
+        "transfezID": 314
+      },
+      {
+        "name": "KAB. NGADA",
+        "transfezID": 301
+      },
+      {
+        "name": "KAB. SABU RAIJUA",
+        "transfezID": 312
+      },
+      {
+        "name": "KAB. KUPANG",
+        "transfezID": 293
+      },
+      {
+        "name": "KAB. MALAKA",
+        "transfezID": 313
+      },
+      {
+        "name": "KAB. ROTE NDAO",
+        "transfezID": 306
+      },
+      {
+        "name": "KAB. LEMBATA",
+        "transfezID": 305
+      },
+      {
+        "name": "KAB. ALOR",
+        "transfezID": 297
+      }
+    ]
+  },
+  {
+    "name": "KALIMANTAN BARAT",
+    "cityNames": [
+      "KAB. SAMBAS",
+      "KAB. MEMPAWAH",
+      "KAB. SANGGAU",
+      "KAB. KETAPANG",
+      "KAB. SINTANG",
+      "KAB. KAPUAS HULU",
+      "KAB. BENGKAYANG",
+      "KAB. LANDAK",
+      "KAB. MELAWI",
+      "KAB. KAYONG UTARA",
+      "KAB. KUBU RAYA",
+      "KOTA SINGKAWANG",
+      "KOTA PONTIANAK",
+      "KAB. SEKADAU"
+    ],
+    "transfezID": 20,
+    "cities": [
+      {
+        "name": "KAB. SAMBAS",
+        "transfezID": 315
+      },
+      {
+        "name": "KAB. MEMPAWAH",
+        "transfezID": 316
+      },
+      {
+        "name": "KAB. SANGGAU",
+        "transfezID": 317
+      },
+      {
+        "name": "KAB. KETAPANG",
+        "transfezID": 318
+      },
+      {
+        "name": "KAB. SINTANG",
+        "transfezID": 319
+      },
+      {
+        "name": "KAB. KAPUAS HULU",
+        "transfezID": 320
+      },
+      {
+        "name": "KAB. BENGKAYANG",
+        "transfezID": 321
+      },
+      {
+        "name": "KAB. LANDAK",
+        "transfezID": 322
+      },
+      {
+        "name": "KAB. MELAWI",
+        "transfezID": 324
+      },
+      {
+        "name": "KAB. KAYONG UTARA",
+        "transfezID": 325
+      },
+      {
+        "name": "KAB. KUBU RAYA",
+        "transfezID": 326
+      },
+      {
+        "name": "KOTA SINGKAWANG",
+        "transfezID": 328
+      },
+      {
+        "name": "KOTA PONTIANAK",
+        "transfezID": 327
+      },
+      {
+        "name": "KAB. SEKADAU",
+        "transfezID": 323
+      }
+    ]
+  },
+  {
+    "name": "KALIMANTAN TENGAH",
+    "cityNames": [
+      "KAB. KOTAWARINGIN BARAT",
+      "KAB. KAPUAS",
+      "KAB. BARITO SELATAN",
+      "KAB. BARITO UTARA",
+      "KAB. KATINGAN",
+      "KAB. SERUYAN",
+      "KAB. LAMANDAU",
+      "KAB. GUNUNG MAS",
+      "KAB. PULANG PISAU",
+      "KAB. BARITO TIMUR",
+      "KAB. KOTAWARINGIN TIMUR",
+      "KOTA PALANGKARAYA",
+      "KAB. SUKAMARA",
+      "KAB. MURUNG RAYA"
+    ],
+    "transfezID": 21,
+    "cities": [
+      {
+        "name": "KAB. KOTAWARINGIN BARAT",
+        "transfezID": 329
+      },
+      {
+        "name": "KAB. KAPUAS",
+        "transfezID": 331
+      },
+      {
+        "name": "KAB. BARITO SELATAN",
+        "transfezID": 332
+      },
+      {
+        "name": "KAB. BARITO UTARA",
+        "transfezID": 333
+      },
+      {
+        "name": "KAB. KATINGAN",
+        "transfezID": 334
+      },
+      {
+        "name": "KAB. SERUYAN",
+        "transfezID": 335
+      },
+      {
+        "name": "KAB. LAMANDAU",
+        "transfezID": 337
+      },
+      {
+        "name": "KAB. GUNUNG MAS",
+        "transfezID": 338
+      },
+      {
+        "name": "KAB. PULANG PISAU",
+        "transfezID": 339
+      },
+      {
+        "name": "KAB. BARITO TIMUR",
+        "transfezID": 341
+      },
+      {
+        "name": "KAB. KOTAWARINGIN TIMUR",
+        "transfezID": 330
+      },
+      {
+        "name": "KOTA PALANGKARAYA",
+        "transfezID": 342
+      },
+      {
+        "name": "KAB. SUKAMARA",
+        "transfezID": 336
+      },
+      {
+        "name": "KAB. MURUNG RAYA",
+        "transfezID": 340
+      }
+    ]
+  },
+  {
+    "name": "KALIMANTAN SELATAN",
+    "cityNames": [
+      "KAB. TANAH LAUT",
+      "KAB. HULU SUNGAI SELATAN",
+      "KAB. HULU SUNGAI TENGAH",
+      "KAB. HULU SUNGAI UTARA",
+      "KAB. TABALONG",
+      "KAB. BALANGAN",
+      "KOTA BANJARMASIN",
+      "KAB. KOTABARU",
+      "KOTA BANJARBARU",
+      "KAB. BANJAR",
+      "KAB. BARITO KUALA",
+      "KAB. TAPIN",
+      "KAB. TANAH BUMBU"
+    ],
+    "transfezID": 22,
+    "cities": [
+      {
+        "name": "KAB. TANAH LAUT",
+        "transfezID": 343
+      },
+      {
+        "name": "KAB. HULU SUNGAI SELATAN",
+        "transfezID": 348
+      },
+      {
+        "name": "KAB. HULU SUNGAI TENGAH",
+        "transfezID": 349
+      },
+      {
+        "name": "KAB. HULU SUNGAI UTARA",
+        "transfezID": 350
+      },
+      {
+        "name": "KAB. TABALONG",
+        "transfezID": 351
+      },
+      {
+        "name": "KAB. BALANGAN",
+        "transfezID": 353
+      },
+      {
+        "name": "KOTA BANJARMASIN",
+        "transfezID": 354
+      },
+      {
+        "name": "KAB. KOTABARU",
+        "transfezID": 344
+      },
+      {
+        "name": "KOTA BANJARBARU",
+        "transfezID": 355
+      },
+      {
+        "name": "KAB. BANJAR",
+        "transfezID": 345
+      },
+      {
+        "name": "KAB. BARITO KUALA",
+        "transfezID": 346
+      },
+      {
+        "name": "KAB. TAPIN",
+        "transfezID": 347
+      },
+      {
+        "name": "KAB. TANAH BUMBU",
+        "transfezID": 352
+      }
+    ]
+  },
+  {
+    "name": "KALIMANTAN TIMUR",
+    "cityNames": [
+      "KAB. PASER",
+      "KAB. KUTAI KARTANEGARA",
+      "KAB. KUTAI BARAT",
+      "KAB. KUTAI TIMUR",
+      "KAB. PENAJAM PASER UTARA",
+      "KAB. MAHAKAM ULU",
+      "KOTA BALIKPAPAN",
+      "KOTA BONTANG",
+      "KAB. BERAU",
+      "KOTA SAMARINDA"
+    ],
+    "transfezID": 23,
+    "cities": [
+      {
+        "name": "KAB. PASER",
+        "transfezID": 356
+      },
+      {
+        "name": "KAB. KUTAI KARTANEGARA",
+        "transfezID": 357
+      },
+      {
+        "name": "KAB. KUTAI BARAT",
+        "transfezID": 359
+      },
+      {
+        "name": "KAB. KUTAI TIMUR",
+        "transfezID": 360
+      },
+      {
+        "name": "KAB. PENAJAM PASER UTARA",
+        "transfezID": 361
+      },
+      {
+        "name": "KAB. MAHAKAM ULU",
+        "transfezID": 362
+      },
+      {
+        "name": "KOTA BALIKPAPAN",
+        "transfezID": 363
+      },
+      {
+        "name": "KOTA BONTANG",
+        "transfezID": 365
+      },
+      {
+        "name": "KAB. BERAU",
+        "transfezID": 358
+      },
+      {
+        "name": "KOTA SAMARINDA",
+        "transfezID": 364
+      }
+    ]
+  },
+  {
+    "name": "KALIMANTAN UTARA",
+    "cityNames": [
+      "KAB. BULUNGAN",
+      "KAB. NUNUKAN",
+      "KAB. TANA TIDUNG",
+      "KOTA TARAKAN",
+      "KAB. MALINAU"
+    ],
+    "transfezID": 24,
+    "cities": [
+      {
+        "name": "KAB. BULUNGAN",
+        "transfezID": 366
+      },
+      {
+        "name": "KAB. NUNUKAN",
+        "transfezID": 368
+      },
+      {
+        "name": "KAB. TANA TIDUNG",
+        "transfezID": 369
+      },
+      {
+        "name": "KOTA TARAKAN",
+        "transfezID": 370
+      },
+      {
+        "name": "KAB. MALINAU",
+        "transfezID": 367
+      }
+    ]
+  },
+  {
+    "name": "SULAWESI UTARA",
+    "cityNames": [
+      "KAB. MINAHASA",
+      "KAB. KEPULAUAN SANGIHE",
+      "KAB. KEPULAUAN TALAUD",
+      "KAB. MINAHASA SELATAN",
+      "KAB. MINAHASA UTARA",
+      "KAB. BOLAANG MONGONDOW UTARA",
+      "KAB. BOLAANG MONGONDOW TIMUR",
+      "KAB. BOLAANG MONGONDOW SELATAN",
+      "KOTA MANADO",
+      "KOTA BITUNG",
+      "KOTA TOMOHON",
+      "KOTA KOTAMOBAGU",
+      "KAB. MINAHASA TENGGARA",
+      "KAB. KEP. SIAU TAGULANDANG BIARO",
+      "KAB. BOLAANG MONGONDOW"
+    ],
+    "transfezID": 25,
+    "cities": [
+      {
+        "name": "KAB. MINAHASA",
+        "transfezID": 372
+      },
+      {
+        "name": "KAB. KEPULAUAN SANGIHE",
+        "transfezID": 373
+      },
+      {
+        "name": "KAB. KEPULAUAN TALAUD",
+        "transfezID": 374
+      },
+      {
+        "name": "KAB. MINAHASA SELATAN",
+        "transfezID": 375
+      },
+      {
+        "name": "KAB. MINAHASA UTARA",
+        "transfezID": 376
+      },
+      {
+        "name": "KAB. BOLAANG MONGONDOW UTARA",
+        "transfezID": 378
+      },
+      {
+        "name": "KAB. BOLAANG MONGONDOW TIMUR",
+        "transfezID": 380
+      },
+      {
+        "name": "KAB. BOLAANG MONGONDOW SELATAN",
+        "transfezID": 381
+      },
+      {
+        "name": "KOTA MANADO",
+        "transfezID": 382
+      },
+      {
+        "name": "KOTA BITUNG",
+        "transfezID": 383
+      },
+      {
+        "name": "KOTA TOMOHON",
+        "transfezID": 384
+      },
+      {
+        "name": "KOTA KOTAMOBAGU",
+        "transfezID": 385
+      },
+      {
+        "name": "KAB. MINAHASA TENGGARA",
+        "transfezID": 377
+      },
+      {
+        "name": "KAB. KEP. SIAU TAGULANDANG BIARO",
+        "transfezID": 379
+      },
+      {
+        "name": "KAB. BOLAANG MONGONDOW",
+        "transfezID": 371
+      }
+    ]
+  },
+  {
+    "name": "SULAWESI TENGAH",
+    "cityNames": [
+      "KAB. BANGGAI",
+      "KAB. POSO",
+      "KAB. DONGGALA",
+      "KAB. BUOL",
+      "KAB. MOROWALI",
+      "KAB. BANGGAI KEPULAUAN",
+      "KAB. PARIGI MOUTONG",
+      "KAB. BANGGAI LAUT",
+      "KAB. MOROWALI UTARA",
+      "KOTA PALU",
+      "KAB. TOLI TOLI",
+      "KAB. SIGI",
+      "KAB. TOJO UNA UNA"
+    ],
+    "transfezID": 26,
+    "cities": [
+      {
+        "name": "KAB. BANGGAI",
+        "transfezID": 386
+      },
+      {
+        "name": "KAB. POSO",
+        "transfezID": 387
+      },
+      {
+        "name": "KAB. DONGGALA",
+        "transfezID": 388
+      },
+      {
+        "name": "KAB. BUOL",
+        "transfezID": 390
+      },
+      {
+        "name": "KAB. MOROWALI",
+        "transfezID": 391
+      },
+      {
+        "name": "KAB. BANGGAI KEPULAUAN",
+        "transfezID": 392
+      },
+      {
+        "name": "KAB. PARIGI MOUTONG",
+        "transfezID": 393
+      },
+      {
+        "name": "KAB. BANGGAI LAUT",
+        "transfezID": 396
+      },
+      {
+        "name": "KAB. MOROWALI UTARA",
+        "transfezID": 397
+      },
+      {
+        "name": "KOTA PALU",
+        "transfezID": 398
+      },
+      {
+        "name": "KAB. TOLI TOLI",
+        "transfezID": 389
+      },
+      {
+        "name": "KAB. SIGI",
+        "transfezID": 395
+      },
+      {
+        "name": "KAB. TOJO UNA UNA",
+        "transfezID": 394
+      }
+    ]
+  },
+  {
+    "name": "SULAWESI SELATAN",
+    "cityNames": [
+      "KAB. TAKALAR",
+      "KAB. GOWA",
+      "KAB. SINJAI",
+      "KAB. MAROS",
+      "KAB. PANGKAJENE DAN KEPULAUAN",
+      "KAB. BARRU",
+      "KAB. WAJO",
+      "KAB. SIDENRENG RAPPANG",
+      "KAB. PINRANG",
+      "KAB. ENREKANG",
+      "KAB. LUWU",
+      "KAB. LUWU UTARA",
+      "KAB. TORAJA UTARA",
+      "KOTA MAKASSAR",
+      "KOTA PAREPARE",
+      "KOTA PALOPO",
+      "KAB. JENEPONTO",
+      "KAB. BONE",
+      "KAB. LUWU TIMUR",
+      "KAB. SOPPENG",
+      "KAB. BULUKUMBA",
+      "KAB. BANTAENG",
+      "KAB. KEPULAUAN SELAYAR",
+      "KAB. TANA TORAJA"
+    ],
+    "transfezID": 27,
+    "cities": [
+      {
+        "name": "KAB. TAKALAR",
+        "transfezID": 403
+      },
+      {
+        "name": "KAB. GOWA",
+        "transfezID": 404
+      },
+      {
+        "name": "KAB. SINJAI",
+        "transfezID": 405
+      },
+      {
+        "name": "KAB. MAROS",
+        "transfezID": 407
+      },
+      {
+        "name": "KAB. PANGKAJENE DAN KEPULAUAN",
+        "transfezID": 408
+      },
+      {
+        "name": "KAB. BARRU",
+        "transfezID": 409
+      },
+      {
+        "name": "KAB. WAJO",
+        "transfezID": 411
+      },
+      {
+        "name": "KAB. SIDENRENG RAPPANG",
+        "transfezID": 412
+      },
+      {
+        "name": "KAB. PINRANG",
+        "transfezID": 413
+      },
+      {
+        "name": "KAB. ENREKANG",
+        "transfezID": 414
+      },
+      {
+        "name": "KAB. LUWU",
+        "transfezID": 415
+      },
+      {
+        "name": "KAB. LUWU UTARA",
+        "transfezID": 417
+      },
+      {
+        "name": "KAB. TORAJA UTARA",
+        "transfezID": 419
+      },
+      {
+        "name": "KOTA MAKASSAR",
+        "transfezID": 420
+      },
+      {
+        "name": "KOTA PAREPARE",
+        "transfezID": null
+      },
+      {
+        "name": "KOTA PALOPO",
+        "transfezID": 422
+      },
+      {
+        "name": "KAB. JENEPONTO",
+        "transfezID": 402
+      },
+      {
+        "name": "KAB. BONE",
+        "transfezID": 406
+      },
+      {
+        "name": "KAB. LUWU TIMUR",
+        "transfezID": 418
+      },
+      {
+        "name": "KAB. SOPPENG",
+        "transfezID": 410
+      },
+      {
+        "name": "KAB. BULUKUMBA",
+        "transfezID": 400
+      },
+      {
+        "name": "KAB. BANTAENG",
+        "transfezID": 401
+      },
+      {
+        "name": "KAB. KEPULAUAN SELAYAR",
+        "transfezID": 399
+      },
+      {
+        "name": "KAB. TANA TORAJA",
+        "transfezID": 416
+      }
+    ]
+  },
+  {
+    "name": "SULAWESI TENGGARA",
+    "cityNames": [
+      "KAB. KOLAKA",
+      "KAB. KONAWE",
+      "KAB. MUNA",
+      "KAB. BOMBANA",
+      "KAB. KOLAKA UTARA",
+      "KAB. KONAWE UTARA",
+      "KAB. BUTON UTARA",
+      "KAB. KOLAKA TIMUR",
+      "KAB. KONAWE KEPULAUAN",
+      "KAB. MUNA BARAT",
+      "KAB. BUTON TENGAH",
+      "KAB. BUTON SELATAN",
+      "KOTA KENDARI",
+      "KOTA BAU BAU",
+      "KAB. BUTON",
+      "KAB. WAKATOBI",
+      "KAB. KONAWE SELATAN"
+    ],
+    "transfezID": 28,
+    "cities": [
+      {
+        "name": "KAB. KOLAKA",
+        "transfezID": 423
+      },
+      {
+        "name": "KAB. KONAWE",
+        "transfezID": 424
+      },
+      {
+        "name": "KAB. MUNA",
+        "transfezID": 425
+      },
+      {
+        "name": "KAB. BOMBANA",
+        "transfezID": 428
+      },
+      {
+        "name": "KAB. KOLAKA UTARA",
+        "transfezID": 430
+      },
+      {
+        "name": "KAB. KONAWE UTARA",
+        "transfezID": 431
+      },
+      {
+        "name": "KAB. BUTON UTARA",
+        "transfezID": 432
+      },
+      {
+        "name": "KAB. KOLAKA TIMUR",
+        "transfezID": 433
+      },
+      {
+        "name": "KAB. KONAWE KEPULAUAN",
+        "transfezID": 434
+      },
+      {
+        "name": "KAB. MUNA BARAT",
+        "transfezID": 435
+      },
+      {
+        "name": "KAB. BUTON TENGAH",
+        "transfezID": 436
+      },
+      {
+        "name": "KAB. BUTON SELATAN",
+        "transfezID": 437
+      },
+      {
+        "name": "KOTA KENDARI",
+        "transfezID": 438
+      },
+      {
+        "name": "KOTA BAU BAU",
+        "transfezID": 439
+      },
+      {
+        "name": "KAB. BUTON",
+        "transfezID": 426
+      },
+      {
+        "name": "KAB. WAKATOBI",
+        "transfezID": 429
+      },
+      {
+        "name": "KAB. KONAWE SELATAN",
+        "transfezID": 427
+      }
+    ]
+  },
+  {
+    "name": "SULAWESI BARAT",
+    "cityNames": [
+      "KAB. PASANGKAYU",
+      "KAB. MAMUJU",
+      "KAB. POLEWALI MANDAR",
+      "KAB. MAJENE",
+      "KAB. MAMASA",
+      "KAB. MAMUJU TENGAH"
+    ],
+    "transfezID": 30,
+    "cities": [
+      {
+        "name": "KAB. PASANGKAYU",
+        "transfezID": 446
+      },
+      {
+        "name": "KAB. MAMUJU",
+        "transfezID": 447
+      },
+      {
+        "name": "KAB. POLEWALI MANDAR",
+        "transfezID": 449
+      },
+      {
+        "name": "KAB. MAJENE",
+        "transfezID": 450
+      },
+      {
+        "name": "KAB. MAMASA",
+        "transfezID": 448
+      },
+      {
+        "name": "KAB. MAMUJU TENGAH",
+        "transfezID": 451
+      }
+    ]
+  },
+  {
+    "name": "MALUKU",
+    "cityNames": [
+      "KAB. MALUKU TENGAH",
+      "KAB. MALUKU TENGGARA",
+      "KAB. KEPULAUAN TANIMBAR",
+      "KAB. BURU",
+      "KAB. MALUKU BARAT DAYA",
+      "KOTA AMBON",
+      "KOTA TUAL",
+      "KAB. SERAM BAGIAN BARAT",
+      "KAB. KEPULAUAN ARU",
+      "KAB. BURU SELATAN",
+      "KAB. SERAM BAGIAN TIMUR"
+    ],
+    "transfezID": 31,
+    "cities": [
+      {
+        "name": "KAB. MALUKU TENGAH",
+        "transfezID": 452
+      },
+      {
+        "name": "KAB. MALUKU TENGGARA",
+        "transfezID": 453
+      },
+      {
+        "name": "KAB. KEPULAUAN TANIMBAR",
+        "transfezID": 454
+      },
+      {
+        "name": "KAB. BURU",
+        "transfezID": 455
+      },
+      {
+        "name": "KAB. MALUKU BARAT DAYA",
+        "transfezID": 459
+      },
+      {
+        "name": "KOTA AMBON",
+        "transfezID": 461
+      },
+      {
+        "name": "KOTA TUAL",
+        "transfezID": 462
+      },
+      {
+        "name": "KAB. SERAM BAGIAN BARAT",
+        "transfezID": 457
+      },
+      {
+        "name": "KAB. KEPULAUAN ARU",
+        "transfezID": 458
+      },
+      {
+        "name": "KAB. BURU SELATAN",
+        "transfezID": 460
+      },
+      {
+        "name": "KAB. SERAM BAGIAN TIMUR",
+        "transfezID": 456
+      }
+    ]
+  },
+  {
+    "name": "MALUKU UTARA",
+    "cityNames": [
+      "KAB. HALMAHERA BARAT",
+      "KAB. HALMAHERA TENGAH",
+      "KAB. HALMAHERA UTARA",
+      "KAB. KEPULAUAN SULA",
+      "KAB. PULAU MOROTAI",
+      "KAB. PULAU TALIABU",
+      "KOTA TERNATE",
+      "KAB. HALMAHERA SELATAN",
+      "KOTA TIDORE KEPULAUAN",
+      "KAB. HALMAHERA TIMUR"
+    ],
+    "transfezID": 32,
+    "cities": [
+      {
+        "name": "KAB. HALMAHERA BARAT",
+        "transfezID": 463
+      },
+      {
+        "name": "KAB. HALMAHERA TENGAH",
+        "transfezID": 464
+      },
+      {
+        "name": "KAB. HALMAHERA UTARA",
+        "transfezID": 465
+      },
+      {
+        "name": "KAB. KEPULAUAN SULA",
+        "transfezID": 467
+      },
+      {
+        "name": "KAB. PULAU MOROTAI",
+        "transfezID": 469
+      },
+      {
+        "name": "KAB. PULAU TALIABU",
+        "transfezID": 470
+      },
+      {
+        "name": "KOTA TERNATE",
+        "transfezID": 471
+      },
+      {
+        "name": "KAB. HALMAHERA SELATAN",
+        "transfezID": 466
+      },
+      {
+        "name": "KOTA TIDORE KEPULAUAN",
+        "transfezID": 472
+      },
+      {
+        "name": "KAB. HALMAHERA TIMUR",
+        "transfezID": 468
+      }
+    ]
+  },
+  {
+    "name": "PAPUA",
+    "cityNames": [
+      "KAB. JAYAPURA",
+      "KAB. BIAK NUMFOR",
+      "KAB. SARMI",
+      "KAB. KEEROM",
+      "KAB. WAROPEN",
+      "KAB. SUPIORI",
+      "KAB. MAMBERAMO RAYA",
+      "KOTA JAYAPURA",
+      "KAB. KEPULAUAN YAPEN"
+    ],
+    "transfezID": 33,
+    "cities": [
+      {
+        "name": "KAB. JAYAPURA",
+        "transfezID": 475
+      },
+      {
+        "name": "KAB. BIAK NUMFOR",
+        "transfezID": 478
+      },
+      {
+        "name": "KAB. SARMI",
+        "transfezID": 482
+      },
+      {
+        "name": "KAB. KEEROM",
+        "transfezID": 483
+      },
+      {
+        "name": "KAB. WAROPEN",
+        "transfezID": 487
+      },
+      {
+        "name": "KAB. SUPIORI",
+        "transfezID": 491
+      },
+      {
+        "name": "KAB. MAMBERAMO RAYA",
+        "transfezID": 492
+      },
+      {
+        "name": "KOTA JAYAPURA",
+        "transfezID": 501
+      },
+      {
+        "name": "KAB. KEPULAUAN YAPEN",
+        "transfezID": 477
+      }
+    ]
+  },
+  {
+    "name": "PAPUA BARAT",
+    "cityNames": [
+      "KAB. MANOKWARI",
+      "KAB. FAK FAK",
+      "KAB. TELUK BINTUNI",
+      "KAB. TELUK WONDAMA",
+      "KAB. KAIMANA",
+      "KAB. PEGUNUNGAN ARFAK",
+      "KAB. MANOKWARI SELATAN"
+    ],
+    "transfezID": 34,
+    "cities": [
+      {
+        "name": "KAB. MANOKWARI",
+        "transfezID": 503
+      },
+      {
+        "name": "KAB. FAK FAK",
+        "transfezID": 504
+      },
+      {
+        "name": "KAB. TELUK BINTUNI",
+        "transfezID": 507
+      },
+      {
+        "name": "KAB. TELUK WONDAMA",
+        "transfezID": 508
+      },
+      {
+        "name": "KAB. KAIMANA",
+        "transfezID": 509
+      },
+      {
+        "name": "KAB. PEGUNUNGAN ARFAK",
+        "transfezID": 513
+      },
+      {
+        "name": "KAB. MANOKWARI SELATAN",
+        "transfezID": 512
+      }
+    ]
+  },
+  {
+    "name": "PAPUA SELATAN",
+    "cityNames": [
+      "KAB. MERAUKE",
+      "KAB. BOVEN DIGOEL",
+      "KAB. ASMAT",
+      "KAB. MAPPI"
+    ],
+    "transfezID": 37,
+    "cities": [
+      {
+        "name": "KAB. MERAUKE",
+        "transfezID": 473
+      },
+      {
+        "name": "KAB. BOVEN DIGOEL",
+        "transfezID": 488
+      },
+      {
+        "name": "KAB. ASMAT",
+        "transfezID": 490
+      },
+      {
+        "name": "KAB. MAPPI",
+        "transfezID": 489
+      }
+    ]
+  },
+  {
+    "name": "PAPUA PEGUNUNGAN",
+    "cityNames": [
+      "KAB PEGUNUNGAN BINTANG",
+      "KAB. YAHUKIMO",
+      "KAB. TOLIKARA",
+      "KAB. YALIMO",
+      "KAB. LANNY JAYA",
+      "KAB. NDUGA",
+      "KAB. JAYAWIJAYA",
+      "KAB. MAMBERAMO TENGAH"
+    ],
+    "transfezID": 36,
+    "cities": [
+      {
+        "name": "KAB PEGUNUNGAN BINTANG",
+        "transfezID": 484
+      },
+      {
+        "name": "KAB. YAHUKIMO",
+        "transfezID": 485
+      },
+      {
+        "name": "KAB. TOLIKARA",
+        "transfezID": 486
+      },
+      {
+        "name": "KAB. YALIMO",
+        "transfezID": 494
+      },
+      {
+        "name": "KAB. LANNY JAYA",
+        "transfezID": 495
+      },
+      {
+        "name": "KAB. NDUGA",
+        "transfezID": 496
+      },
+      {
+        "name": "KAB. JAYAWIJAYA",
+        "transfezID": 474
+      },
+      {
+        "name": "KAB. MAMBERAMO TENGAH",
+        "transfezID": 493
+      }
+    ]
+  },
+  {
+    "name": "ACEH",
+    "cityNames": [
+      "KAB. ACEH SINGKIL",
+      "KAB. BIREUEN",
+      "KAB. ACEH BARAT DAYA",
+      "KAB. GAYO LUES",
+      "KAB. ACEH JAYA",
+      "KAB. ACEH TAMIANG",
+      "KAB. NAGAN RAYA",
+      "KAB. BENER MERIAH",
+      "KAB. PIDIE JAYA",
+      "KOTA BANDA ACEH",
+      "KOTA SABANG",
+      "KOTA LANGSA",
+      "KOTA SUBULUSSALAM",
+      "KAB. ACEH TENGGARA",
+      "KAB. PIDIE",
+      "KAB. SIMEULUE",
+      "KAB. ACEH SELATAN",
+      "KAB. ACEH TENGAH",
+      "KAB. ACEH BARAT",
+      "KAB. ACEH TIMUR",
+      "KAB. ACEH UTARA",
+      "KAB. ACEH BESAR",
+      "KOTA LHOKSEUMAWE"
+    ],
+    "transfezID": 1,
+    "cities": [
+      {
+        "name": "KAB. ACEH SINGKIL",
+        "transfezID": 10
+      },
+      {
+        "name": "KAB. BIREUEN",
+        "transfezID": 11
+      },
+      {
+        "name": "KAB. ACEH BARAT DAYA",
+        "transfezID": 12
+      },
+      {
+        "name": "KAB. GAYO LUES",
+        "transfezID": 13
+      },
+      {
+        "name": "KAB. ACEH JAYA",
+        "transfezID": 14
+      },
+      {
+        "name": "KAB. ACEH TAMIANG",
+        "transfezID": 16
+      },
+      {
+        "name": "KAB. NAGAN RAYA",
+        "transfezID": 15
+      },
+      {
+        "name": "KAB. BENER MERIAH",
+        "transfezID": 17
+      },
+      {
+        "name": "KAB. PIDIE JAYA",
+        "transfezID": 18
+      },
+      {
+        "name": "KOTA BANDA ACEH",
+        "transfezID": 19
+      },
+      {
+        "name": "KOTA SABANG",
+        "transfezID": 20
+      },
+      {
+        "name": "KOTA LANGSA",
+        "transfezID": 22
+      },
+      {
+        "name": "KOTA SUBULUSSALAM",
+        "transfezID": 23
+      },
+      {
+        "name": "KAB. ACEH TENGGARA",
+        "transfezID": 2
+      },
+      {
+        "name": "KAB. PIDIE",
+        "transfezID": 7
+      },
+      {
+        "name": "KAB. SIMEULUE",
+        "transfezID": 9
+      },
+      {
+        "name": "KAB. ACEH SELATAN",
+        "transfezID": 1
+      },
+      {
+        "name": "KAB. ACEH TENGAH",
+        "transfezID": 4
+      },
+      {
+        "name": "KAB. ACEH BARAT",
+        "transfezID": 5
+      },
+      {
+        "name": "KAB. ACEH TIMUR",
+        "transfezID": 3
+      },
+      {
+        "name": "KAB. ACEH UTARA",
+        "transfezID": 8
+      },
+      {
+        "name": "KAB. ACEH BESAR",
+        "transfezID": 6
+      },
+      {
+        "name": "KOTA LHOKSEUMAWE",
+        "transfezID": 21
+      }
+    ]
+  },
+  {
+    "name": "SUMATERA SELATAN",
+    "cityNames": [
+      "KAB. OGAN KOMERING ULU",
+      "KAB. OGAN KOMERING ILIR",
+      "KAB. LAHAT",
+      "KAB. MUSI RAWAS",
+      "KAB. MUSI BANYUASIN",
+      "KAB. BANYUASIN",
+      "KAB. OGAN KOMERING ULU TIMUR",
+      "KAB. OGAN ILIR",
+      "KAB. EMPAT LAWANG",
+      "KAB. PENUKAL ABAB LEMATANG ILIR",
+      "KAB. MUSI RAWAS UTARA",
+      "KOTA PALEMBANG",
+      "KOTA LUBUK LINGGAU",
+      "KOTA PRABUMULIH",
+      "KAB. MUARA ENIM",
+      "KAB. OGAN KOMERING ULU SELATAN",
+      "KOTA PAGAR ALAM"
+    ],
+    "transfezID": 6,
+    "cities": [
+      {
+        "name": "KAB. OGAN KOMERING ULU",
+        "transfezID": 99
+      },
+      {
+        "name": "KAB. OGAN KOMERING ILIR",
+        "transfezID": 100
+      },
+      {
+        "name": "KAB. LAHAT",
+        "transfezID": 102
+      },
+      {
+        "name": "KAB. MUSI RAWAS",
+        "transfezID": 103
+      },
+      {
+        "name": "KAB. MUSI BANYUASIN",
+        "transfezID": 104
+      },
+      {
+        "name": "KAB. BANYUASIN",
+        "transfezID": 105
+      },
+      {
+        "name": "KAB. OGAN KOMERING ULU TIMUR",
+        "transfezID": 106
+      },
+      {
+        "name": "KAB. OGAN ILIR",
+        "transfezID": 108
+      },
+      {
+        "name": "KAB. EMPAT LAWANG",
+        "transfezID": 109
+      },
+      {
+        "name": "KAB. PENUKAL ABAB LEMATANG ILIR",
+        "transfezID": 110
+      },
+      {
+        "name": "KAB. MUSI RAWAS UTARA",
+        "transfezID": 111
+      },
+      {
+        "name": "KOTA PALEMBANG",
+        "transfezID": 112
+      },
+      {
+        "name": "KOTA LUBUK LINGGAU",
+        "transfezID": 114
+      },
+      {
+        "name": "KOTA PRABUMULIH",
+        "transfezID": 115
+      },
+      {
+        "name": "KAB. MUARA ENIM",
+        "transfezID": 101
+      },
+      {
+        "name": "KAB. OGAN KOMERING ULU SELATAN",
+        "transfezID": 107
+      },
+      {
+        "name": "KOTA PAGAR ALAM",
+        "transfezID": 113
+      }
+    ]
+  },
+  {
+    "name": "BENGKULU",
+    "cityNames": [
+      "KAB. KAUR",
+      "KAB. SELUMA",
+      "KAB. LEBONG",
+      "KAB. KEPAHIANG",
+      "KAB. BENGKULU TENGAH",
+      "KAB. BENGKULU SELATAN",
+      "KAB. REJANG LEBONG",
+      "KAB. BENGKULU UTARA",
+      "KAB. MUKO MUKO",
+      "KOTA BENGKULU"
+    ],
+    "transfezID": 7,
+    "cities": [
+      {
+        "name": "KAB. KAUR",
+        "transfezID": 120
+      },
+      {
+        "name": "KAB. SELUMA",
+        "transfezID": 122
+      },
+      {
+        "name": "KAB. LEBONG",
+        "transfezID": 117
+      },
+      {
+        "name": "KAB. KEPAHIANG",
+        "transfezID": 118
+      },
+      {
+        "name": "KAB. BENGKULU TENGAH",
+        "transfezID": 119
+      },
+      {
+        "name": "KAB. BENGKULU SELATAN",
+        "transfezID": 124
+      },
+      {
+        "name": "KAB. REJANG LEBONG",
+        "transfezID": 125
+      },
+      {
+        "name": "KAB. BENGKULU UTARA",
+        "transfezID": 116
+      },
+      {
+        "name": "KAB. MUKO MUKO",
+        "transfezID": 123
+      },
+      {
+        "name": "KOTA BENGKULU",
+        "transfezID": 121
+      }
+    ]
+  },
+  {
+    "name": "JAWA BARAT",
+    "cityNames": [
+      "KAB. BOGOR",
+      "KAB. SUKABUMI",
+      "KAB. CIANJUR",
+      "KAB. BANDUNG",
+      "KAB. GARUT",
+      "KAB. TASIKMALAYA",
+      "KAB. KUNINGAN",
+      "KAB. CIREBON",
+      "KAB. PURWAKARTA",
+      "KAB. KARAWANG",
+      "KAB. BEKASI",
+      "KAB. PANGANDARAN",
+      "KOTA BOGOR",
+      "KOTA SUKABUMI",
+      "KOTA BANDUNG",
+      "KOTA CIREBON",
+      "KOTA DEPOK",
+      "KOTA CIMAHI",
+      "KOTA TASIKMALAYA",
+      "KAB. BANDUNG BARAT",
+      "KAB. SUMEDANG",
+      "KOTA BEKASI",
+      "KAB. MAJALENGKA",
+      "KAB. CIAMIS",
+      "KAB. INDRAMAYU",
+      "KAB. SUBANG",
+      "KOTA BANJAR"
+    ],
+    "transfezID": 12,
+    "cities": [
+      {
+        "name": "KAB. BOGOR",
+        "transfezID": 161
+      },
+      {
+        "name": "KAB. SUKABUMI",
+        "transfezID": 162
+      },
+      {
+        "name": "KAB. CIANJUR",
+        "transfezID": 163
+      },
+      {
+        "name": "KAB. BANDUNG",
+        "transfezID": 164
+      },
+      {
+        "name": "KAB. GARUT",
+        "transfezID": 165
+      },
+      {
+        "name": "KAB. TASIKMALAYA",
+        "transfezID": 166
+      },
+      {
+        "name": "KAB. KUNINGAN",
+        "transfezID": 168
+      },
+      {
+        "name": "KAB. CIREBON",
+        "transfezID": 169
+      },
+      {
+        "name": "KAB. PURWAKARTA",
+        "transfezID": 174
+      },
+      {
+        "name": "KAB. KARAWANG",
+        "transfezID": 175
+      },
+      {
+        "name": "KAB. BEKASI",
+        "transfezID": 176
+      },
+      {
+        "name": "KAB. PANGANDARAN",
+        "transfezID": 178
+      },
+      {
+        "name": "KOTA BOGOR",
+        "transfezID": 179
+      },
+      {
+        "name": "KOTA SUKABUMI",
+        "transfezID": 180
+      },
+      {
+        "name": "KOTA BANDUNG",
+        "transfezID": 181
+      },
+      {
+        "name": "KOTA CIREBON",
+        "transfezID": 182
+      },
+      {
+        "name": "KOTA DEPOK",
+        "transfezID": 184
+      },
+      {
+        "name": "KOTA CIMAHI",
+        "transfezID": 185
+      },
+      {
+        "name": "KOTA TASIKMALAYA",
+        "transfezID": 186
+      },
+      {
+        "name": "KAB. BANDUNG BARAT",
+        "transfezID": 177
+      },
+      {
+        "name": "KAB. SUMEDANG",
+        "transfezID": 171
+      },
+      {
+        "name": "KOTA BEKASI",
+        "transfezID": 183
+      },
+      {
+        "name": "KAB. MAJALENGKA",
+        "transfezID": 170
+      },
+      {
+        "name": "KAB. CIAMIS",
+        "transfezID": 167
+      },
+      {
+        "name": "KAB. INDRAMAYU",
+        "transfezID": 172
+      },
+      {
+        "name": "KAB. SUBANG",
+        "transfezID": 173
+      },
+      {
+        "name": "KOTA BANJAR",
+        "transfezID": 187
+      }
+    ]
+  },
+  {
+    "name": "PAPUA TENGAH",
+    "cityNames": [
+      "KAB. NABIRE",
+      "KAB. PUNCAK JAYA",
+      "KAB. PANIAI",
+      "KAB. PUNCAK",
+      "KAB. DOGIYAI",
+      "KAB. INTAN JAYA",
+      "KAB. DEIYAI",
+      "KAB. MIMIKA"
+    ],
+    "transfezID": 38,
+    "cities": [
+      {
+        "name": "KAB. NABIRE",
+        "transfezID": 476
+      },
+      {
+        "name": "KAB. PUNCAK JAYA",
+        "transfezID": 479
+      },
+      {
+        "name": "KAB. PANIAI",
+        "transfezID": 480
+      },
+      {
+        "name": "KAB. PUNCAK",
+        "transfezID": 497
+      },
+      {
+        "name": "KAB. DOGIYAI",
+        "transfezID": 498
+      },
+      {
+        "name": "KAB. INTAN JAYA",
+        "transfezID": 499
+      },
+      {
+        "name": "KAB. DEIYAI",
+        "transfezID": 500
+      },
+      {
+        "name": "KAB. MIMIKA",
+        "transfezID": 481
+      }
+    ]
+  },
+  {
+    "name": "PAPUA BARAT DAYA",
+    "cityNames": [
+      "KAB. TAMBRAUW",
+      "KOTA SORONG",
+      "KAB. MAYBRAT",
+      "KAB. SORONG",
+      "KAB. SORONG SELATAN",
+      "KAB. RAJA AMPAT"
+    ],
+    "transfezID": 35,
+    "cities": [
+      {
+        "name": "KAB. TAMBRAUW",
+        "transfezID": 510
+      },
+      {
+        "name": "KOTA SORONG",
+        "transfezID": 514
+      },
+      {
+        "name": "KAB. MAYBRAT",
+        "transfezID": 511
+      },
+      {
+        "name": "KAB. SORONG",
+        "transfezID": 502
+      },
+      {
+        "name": "KAB. SORONG SELATAN",
+        "transfezID": 505
+      },
+      {
+        "name": "KAB. RAJA AMPAT",
+        "transfezID": 506
+      }
+    ]
+  },
+  {
+    "name": "GORONTALO",
+    "cityNames": [
+      "KAB. GORONTALO",
+      "KAB. BONE BOLANGO",
+      "KAB. GORONTALO UTARA",
+      "KOTA GORONTALO",
+      "KAB. POHUWATO",
+      "KAB. BOALEMO"
+    ],
+    "transfezID": 29,
+    "cities": [
+      {
+        "name": "KAB. GORONTALO",
+        "transfezID": 440
+      },
+      {
+        "name": "KAB. BONE BOLANGO",
+        "transfezID": 442
+      },
+      {
+        "name": "KAB. GORONTALO UTARA",
+        "transfezID": 444
+      },
+      {
+        "name": "KOTA GORONTALO",
+        "transfezID": 445
+      },
+      {
+        "name": "KAB. POHUWATO",
+        "transfezID": null
+      },
+      {
+        "name": "KAB. BOALEMO",
+        "transfezID": 441
+      }
+    ]
+  }
+]
