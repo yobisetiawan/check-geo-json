@@ -73,45 +73,48 @@ for (const province of provinces.data) {
     province.city_names = provinceCities.map((c) =>
         c.name.toUpperCase().replace(/^(KAB\.|KOTA)\s*/, '')
     );
-}
-
-for (const province of geo_provinces.data) {
-    var provinceCities = geo_cities.data.filter(
-        (c) => c.state_id === province.id
-    );
-    province.cities = provinceCities;
-    province.city_names = provinceCities.map((c) => c.name.toUpperCase());
-
-    const p = provinces.data.find((p) => p.name === province.name.toUpperCase())
-    if (p && p.city_names.length) {
-        const comparison = compareCities(
-            p.city_names,
-            province.city_names
-        );
-
-        console.log('Province:', province.name);
-        if (comparison.missing.length) {
-            console.log('Missing cities:', comparison.missing.length);
-        }
-        if (comparison.extra.length) {
-            console.log('Invalid cities:', comparison.extra.length);
-        }
-
-    } else {
-        console.log('Province:', province.name);
-        console.log('No cities found in transfez for this province.');
-    }
-
+    console.log('Province:', province.name);
+    console.log('Cities:', province.city_names.length);
 }
 
 
-function compareCities(correct, target) {
-    const correctSet = new Set(correct);
-    const targetSet = new Set(target);
+// for (const province of geo_provinces.data) {
+//     var provinceCities = geo_cities.data.filter(
+//         (c) => c.state_id === province.id
+//     );
+//     province.cities = provinceCities;
+//     province.city_names = provinceCities.map((c) => c.name.toUpperCase());
 
-    return {
-        missing: correct.filter((city) => !targetSet.has(city)),
-        extra: target.filter((city) => !correctSet.has(city)),
-        same: correct.filter((city) => targetSet.has(city)),
-    };
-}
+//     const p = provinces.data.find((p) => p.name === province.name.toUpperCase())
+//     if (p && p.city_names.length) {
+//         const comparison = compareCities(
+//             p.city_names,
+//             province.city_names
+//         );
+
+//         console.log('Province:', province.name);
+//         if (comparison.missing.length) {
+//             console.log('Missing cities:', comparison.missing.length);
+//         }
+//         if (comparison.extra.length) {
+//             console.log('Invalid cities:', comparison.extra.length);
+//         }
+
+//     } else {
+//         console.log('Province:', province.name);
+//         console.log('No cities found in transfez for this province.');
+//     }
+
+// }
+
+
+// function compareCities(correct, target) {
+//     const correctSet = new Set(correct);
+//     const targetSet = new Set(target);
+
+//     return {
+//         missing: correct.filter((city) => !targetSet.has(city)),
+//         extra: target.filter((city) => !correctSet.has(city)),
+//         same: correct.filter((city) => targetSet.has(city)),
+//     };
+// }
