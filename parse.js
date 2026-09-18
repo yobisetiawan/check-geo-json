@@ -26,7 +26,16 @@ const provinces = data
             .filter(city =>
                 city.kode_wilayah.startsWith(province.kode_wilayah + '.')
             )
-            .map(city => city.provinsi_kabupaten_kota)
+            .map(city => city.provinsi_kabupaten_kota),
+        cityObjects: data
+            .filter(city =>
+                city.kode_wilayah.startsWith(province.kode_wilayah + '.')
+            )
+            .map(city => ({
+                name: city.provinsi_kabupaten_kota,
+                id: city.kode_wilayah
+            })),
+        kode_wilayah: province.kode_wilayah    
     }));
 
 const transfezProvinces = JSON.parse(
@@ -54,7 +63,8 @@ for (const province of provinces) {
     }
 
     province.cities = [];
-    for (const city of province.cityNames) {
+    for (const c of province.cityObjects) {
+        const city = c.name;
         const cityName = city.trim().replace(/\s+/g, ' ');
         let tzCity = transfezCities.data.find((c) => {
             return c.province_id === province.transfezID && c.name === cityName;
@@ -93,12 +103,14 @@ for (const province of provinces) {
         if (tzCity) {
             province.cities.push({
                 name: city,
-                transfezID: tzCity.id
+                transfezID: tzCity.id,
+                id: c.id
             });
         } else {
             province.cities.push({
                 name: city,
-                transfezID: null
+                transfezID: null,
+                id: c.id
             });
             noCity.push({
                 province: province.name,
@@ -107,8 +119,11 @@ for (const province of provinces) {
         }
     }
 
+    province.cities.sort((a, b) => a.id.localeCompare(b.id));
 
 }
+
+provinces.sort((a, b) => a.name.localeCompare(b.name));
 
 fs.writeFileSync(
     './result/output.json',
